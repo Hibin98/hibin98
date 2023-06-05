@@ -1,11 +1,11 @@
-# :pushpin: goQuality
->백엔드 개발 프로젝트
+# :pushpin: 백엔드 개발 프로젝트 목록
+>나만의 mvc 프레임워크 만들기
 >https://go-quality.dev  
 
 </br>
 
 ## 1. 제작 기간 & 참여 인원
-- 2019년 2월 18일 ~ 4월 5일
+- 
 - 개인 프로젝트
 
 </br>
